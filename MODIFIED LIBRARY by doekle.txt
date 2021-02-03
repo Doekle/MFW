@@ -1,0 +1,3 @@
+in MD_AD9833.cpp line ~ 190. not off function, but reset state. this prevents jumps
+
+in header file,MD_AD9833_lib, frequency is not 25 MHz but 16 MHz.

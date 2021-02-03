@@ -1,0 +1,11 @@
+V2 single dds, level input, comparator detector
+
+
+V3
+
+
+V4 dual dds, oude level detectie
+
+V5 dual dds, met slimmere leveldetectie, niet meer op signal inputlevel, mar op imag en real input level
+
+V6 met LMH6639 sleep fnctie en selftest optie. en signaleringsled (debug)
